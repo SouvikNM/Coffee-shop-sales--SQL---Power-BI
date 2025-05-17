@@ -20,3 +20,4 @@ Sales distribution by weekdays, weekends, hours, and days
 Comparative analysis of daily vs. monthly averages
 
 This project demonstrates SQL proficiency in data cleaning, aggregation, window functions, and CTEs for deriving actionable business insights (Go through the REPORT file for detailed project report)
+The results of SQL queries is verified by the Power BI dashboard. You can play with the dashboard and verify the SQL queries by yourself.
